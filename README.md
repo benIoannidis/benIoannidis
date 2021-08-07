@@ -8,7 +8,7 @@
 
 - Contact: ben.april95@gmail.com 
 
-- My portfolio (temporary link): https://devfolio180227713.wordpress.com/ 
+- My portfolio: https://812games.dev
 
 <!---
 benIoannidis/benIoannidis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
